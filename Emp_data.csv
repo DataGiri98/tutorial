@@ -1,0 +1,11 @@
+Emp ID,Dept,D.O.J,Salary,Company Employee
+101,IT,13-09-2020,50000.00,yes
+102,HR,20-05-2020,20500.00,yes
+103,IT,10-11-2022,24400.00,yes
+104,Account,12-04-2021,29300.00,yes
+,IT,03-04-2022,20000.00,yes
+106,,,29500.00,yes
+107,Account,01-01-2021,25000.00,yes
+108,Data Science,,48000.00,yes
+,Data Science,21-10-2023,35500.00,yes
+110,Account,20-10-2020,,yes
